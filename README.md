@@ -6,7 +6,7 @@ I am a [Student of Multi Data Palembang University, Faculty of Computer Science 
 
 I'm currently in 5th semester and also following a Program [Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), namely [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka 2023](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) Batch II, with [Dicoding Indonesia](https://www.dicoding.com/) in Learning Path - Mobile Development (Android).
 
-If you are interested in getting to know me, please connect to my [LinkedIn Account](https://www.linkedin.com/in/candra1525/)...
+If you are interested in getting to know me, please connect to my [LinkedIn Account](https://www.linkedin.com/in/candra1525/)
 
 Thank you 👨🏻‍💻✨
 
