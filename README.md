@@ -1,12 +1,22 @@
 # Hi Everyone! 👨🏻‍💻👋🏻
+Introduce myself, my name is **Candra**.
 
-Introduce my self, my name is **Candra**.
+Personally, I am "Someone who doesn't give up easily". This reflects my personality which does not give up easily in facing various challenges, especially in the field of technology. I will complete each challenge step by step to achieve my goal.
 
-I am a [Student of Multi Data Palembang University, Faculty of Computer Science and Engineering, Informatics](https://mdp.ac.id/).
+I am a 10% Distinction Graduate of the [Bangkit Academy 2023 Batch 2 - Mobile Development (Android)](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) Learning Path program and I am a member of the Best 50 Product-based Capstone Project teams out of 639 existing Capstone Project teams. 🏅🏆
 
-I'm currently in 5th semester and also following a Program [Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), namely [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka 2023](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) Batch II, with [Dicoding Indonesia](https://www.dicoding.com/) in Learning Path - Mobile Development (Android).
+I have an interest in Mobile Development (Android) 📱 and Front End Web Developer 🌐. To develop my interests, I studied at [Multi Data Palembang University](https://mdp.ac.id/). Here, I am taking the Informatics study program, at the Faculty of Computer Science and Engineering. Currently, I am in the 5th Semester.
 
-If you are interested in getting to know me, please connect to my [LinkedIn Account](https://www.linkedin.com/in/candra1525/)
+If you are interested in getting to know me, please connect 
+<br/>
+### Social Media 
+[![LinkedIn Account](https://github.com/candra1525/candra1525/blob/main/linked_in_121x39.png)](https://www.linkedin.com/in/candra1525/)
+[![Instagram Account](https://github.com/candra1525/candra1525/blob/main/instagram_121x39.png)](https://www.instagram.com/in/candracandra1525/)
+[![Github Account](https://github.com/candra1525/candra1525/blob/main/github_121x39.png)](https://github.com/in/candra1525/)
+
+### Contact
+[![Gmail Account](https://github.com/candra1525/candra1525/blob/main/gmail_121x39.png)](mailto:candraandi2003@gmail.com)
+[![Discord Account](https://github.com/candra1525/candra1525/blob/main/discord_121x39.png)](Candra#6399)
 
 Thank you 👨🏻‍💻✨
 
@@ -16,18 +26,3 @@ Thank you 👨🏻‍💻✨
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=candra1525&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<!--
-**candra1525/candra1525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
