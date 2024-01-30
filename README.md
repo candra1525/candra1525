@@ -11,8 +11,8 @@ If you are interested in getting to know me, please connect
 <br/>
 ### Social Media 
 [![LinkedIn Account](https://github.com/candra1525/candra1525/blob/main/linked_in_121x39.png)](https://www.linkedin.com/in/candra1525/)
-[![Instagram Account](https://github.com/candra1525/candra1525/blob/main/instagram_121x39.png)](https://www.instagram.com/in/candracandra1525/)
-[![Github Account](https://github.com/candra1525/candra1525/blob/main/github_121x39.png)](https://github.com/in/candra1525/)
+[![Instagram Account](https://github.com/candra1525/candra1525/blob/main/instagram_121x39.png)](https://www.instagram.com/candracandra1525/)
+[![Github Account](https://github.com/candra1525/candra1525/blob/main/github_121x39.png)](https://github.com/candra1525/)
 
 ### Contact
 [![Gmail Account](https://github.com/candra1525/candra1525/blob/main/gmail_121x39.png)](mailto:candraandi2003@gmail.com)
