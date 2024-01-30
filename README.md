@@ -18,6 +18,9 @@ If you are interested in getting to know me, please connect
 [![Gmail Account](https://github.com/candra1525/candra1525/blob/main/gmail_121x39.png)](mailto:candraandi2003@gmail.com)
 [![Discord Account](https://github.com/candra1525/candra1525/blob/main/discord_121x39.png)](Candra#6399)
 
+### Personal Website
+[![Website](https://github.com/candra1525/candra1525/blob/main/personal_website.png)](https://candra1525.github.io/me/)
+
 Thank you 👨🏻‍💻✨
 
 <p align="left">
