@@ -26,7 +26,7 @@ If you are interested in getting to know me, please connect
 Thank you 👨🏻‍💻✨
 
 <p align="center">
-<a href="https://github.com/candracandra1525">
+<a href="https://github.com/candra1525">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=candra1525&rank_icon=github&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candra1525&layout=compact&langs_count=8&theme=algolia"/>
 </a>
