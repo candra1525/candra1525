@@ -1,3 +1,5 @@
+[![Candra 1525](https://readme-typing-svg.demolab.com?font=Quicksand&weight=900&size=30&duration=3000&pause=1000&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi+Everyone++.+.+.;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I'm+Candra+.+.+.+;%F0%9F%92%A1I+have+an+interest+in+.+.+.+;%F0%9F%93%B1Mobile+Development;%F0%9F%8C%90+Front+End+Web+Developer)](https://git.io/typing-svg)
+
 # Hi Everyone! 👨🏻‍💻👋🏻
 Introduce myself, my name is **Candra**.
 
@@ -23,9 +25,12 @@ If you are interested in getting to know me, please connect
 
 Thank you 👨🏻‍💻✨
 
-<p align="left">
-<a href="https://github.com/candra1525">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=candra1525&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=candra1525&layout=compact&langs_count=8&theme=algolia"/>
+<p align="center">
+<a href="https://github.com/candracandra1525">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=candra1525&rank_icon=github&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candra1525&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=candra1525&theme=algolia&hide_border=true" />
 </p>
