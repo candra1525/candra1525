@@ -1,4 +1,4 @@
-[![Candra 1525](https://readme-typing-svg.demolab.com?font=Quicksand&weight=900&size=30&duration=3000&pause=1000&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi+Everyone++.+.+.;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I'm+Candra+.+.+.+;%F0%9F%92%A1I+have+an+interest+in+.+.+.+;%F0%9F%93%B1Mobile+Development;%F0%9F%8C%90+Front+End+Web+Development)](https://git.io/typing-svg)
+[![Candra 1525](https://readme-typing-svg.demolab.com?font=Quicksand&weight=900&size=30&duration=3000&pause=1000&random=false&width=450&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi+Everyone++.+.+.;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I'm+Candra+.+.+.+;%F0%9F%92%A1I+have+an+interest+in+.+.+.+;%F0%9F%93%B1Mobile+Development;%F0%9F%8C%90+Front+End+Web+Development)](https://git.io/typing-svg)
 
 # Hi Everyone! 👨🏻‍💻👋🏻
 Introduce myself, my name is **Candra**.
