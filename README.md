@@ -7,7 +7,7 @@ Personally, I am **"Someone who doesn't give up easily"**. This reflects my pers
 
 I am a **10% Distinction Graduate** of the **[Bangkit Academy 2023 Batch 2 - Mobile Development (Android)](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)** Learning Path program and I am a member of the **Best 50 Product-based Capstone Project Teams** out of 639 existing Capstone Project teams. 🏅🏆
 
-I have an interest in **Mobile Development (Android)** 📱 and **Front End Web Developer** 🌐. To develop my interests, I studied at **[Multi Data Palembang University](https://mdp.ac.id/)**. Here, I am taking the Informatics study program, at the Faculty of Computer Science and Engineering. Currently, I am in the 6th Semester.
+I have an interest in **Mobile Development (Android)** 📱 and **Front End Web Developer** 🌐. To develop my interests, I studied at **[Multi Data Palembang University](https://mdp.ac.id/)**. Here, I am taking the Informatics study program, at the Faculty of Computer Science and Engineering. Currently, I am in the 7th Semester.
 
 If you are interested in getting to know me, please connect 
 <br/>
