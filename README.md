@@ -5,7 +5,7 @@ Introduce myself, my name is **Candra**.
 
 <!-- Personally, I am **"Someone who doesn't give up easily"**. This reflects my personality which does not give up easily in facing various challenges, especially in the field of technology. I will complete each challenge step by step to achieve my goal. -->
 
-I am a **10% Distinction Graduate** of the **[Bangkit Academy 2023 Batch 2 - Mobile Development (Android)](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)** Learning Path program and I am a member of the **Best 50 Product-based Capstone Project Teams** out of 639 existing Capstone Project teams. 🏅🏆
+I am a **10% Distinction Graduate** of the **[Bangkit Academy 2023 Batch 2 - Mobile Development (Android)](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)** Learning Path program and I am a member of the **Best 50 Product-based Capstone Project Teams** named **[Ecotup Team](https://github.com/ecotup)** from 639 existing Capstone Project teams. 🏅🏆
 
 I have an interest in **Mobile Development (Android)** 📱 and **Front End Web Developer** 🌐. To develop my interests, I studied at **[Multi Data Palembang University](https://mdp.ac.id/)**. Here, I am taking the Informatics study program, at the Faculty of Computer Science and Engineering. Currently, I am in the 7th Semester.
 
