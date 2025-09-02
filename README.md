@@ -3,11 +3,9 @@
 # Hi Everyone! 👨🏻‍💻👋🏻
 Introduce myself, my name is **Candra**.
 
-<!-- Personally, I am **"Someone who doesn't give up easily"**. This reflects my personality which does not give up easily in facing various challenges, especially in the field of technology. I will complete each challenge step by step to achieve my goal. -->
+I've an interest in **🌐 Front End Web Development** and **📱Mobile Development (Android)**. To develop my interests, I'm studying at **[Multi Data Palembang University](https://mdp.ac.id/)**, in the **Faculty of Computer Science and Engineering**, **Informatics** Study Program. I recently graduated with a Bachelor's degree in Informatics and am currently continuing to improve my skills in **Web Development, Mobile Applications, and AI**.
 
-I am a **10% Distinction Graduate** of the **[Bangkit Academy 2023 Batch 2 - Mobile Development (Android)](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)** Learning Path program and I am a member of the **Best 50 Product-based Capstone Project Teams** named **[Ecotup Team](https://github.com/ecotup)** from 639 existing Capstone Project teams. 🏅🏆
-
-I have an interest in **Mobile Development (Android)** 📱 and **Front End Web Developer** 🌐. To develop my interests, I studied at **[Multi Data Palembang University](https://mdp.ac.id/)**. Here, I am taking the Informatics study program, at the Faculty of Computer Science and Engineering. Currently, I am in the 7th Semester.
+Apart from that, I'm also a participant in **Bangkit Academy 2023 Batch 2**. At Bangkit Academy, I am a **10% 🏅 Distinction Graduate** of the **[Bangkit Academy 2023 Batch 2 - Mobile Development (Android)](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)** Learning Path program and I am a member of the 🏆 **[Best 50 Product-based Capstone Project teams](https://github.com/ecotup)** out of 639 existing Capstone Project teams.
 
 If you are interested in getting to know me, please connect 
 <br/>
@@ -21,7 +19,7 @@ If you are interested in getting to know me, please connect
 [![Discord Account](https://github.com/candra1525/candra1525/blob/main/discord_121x39.png)](Candra#6399)
 
 ### Personal Website
-[![Website](https://github.com/candra1525/candra1525/blob/main/personal_website.png)](https://candra1525.github.io/me/)
+[![Website](https://github.com/candra1525/candra1525/blob/main/personal_website.png)](https://my-portfolio-candra.vercel.app/)
 
 Thank you 👨🏻‍💻✨
 
